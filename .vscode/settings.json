@@ -1,0 +1,4 @@
+{
+    "python.pythonPath": "C:\\Users\\Ankit\\AppData\\Local\\Programs\\Python\\Python38\\python.exe"
+    ,"python.linting.pylintArgs": ["--generate-mebers"]
+}
